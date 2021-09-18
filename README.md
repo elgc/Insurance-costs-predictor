@@ -11,4 +11,17 @@ Many factors affect how much you pay for health insurance are not within our con
 
 I have previously done exploratory analysis on this data for a webinar in regression analysis at ISSSP (International society of Six Sigma Professionals). It was found that the most influential factor is smoking.
 
-To increase the performance of a model used to forecast cost of insurance I developed 
+To increase the performance of a model used to forecast cost of insurance I developed eight models that included:
+
+- Multiple linear regression. The **Baseline model** with **R2=0.75**
+- Multiple linear regression with transformed **y**: with **R2=0.77**
+- Random Forest Tree with Hyperparameter Optimization: with **R2=0.87**
+- Random Forest Tree with Hyperparameter Optimization: with **R2=0.82**
+- Second order Polynomial Regression (Kaggle best): with **R2=
+
+
+
+
+
+
+Reference: https://www.kaggle.com/mariapushkareva/medical-insurance-cost-with-linear-regression
