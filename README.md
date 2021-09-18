@@ -24,4 +24,4 @@ All values of R2 correspond to the model evaluated on the test set.
 
 The model selected provides good working predictability.
 
-Reference: https://www.kaggle.com/mariapushkareva/medical-insurance-cost-with-linear-regression
+*Reference: https://www.kaggle.com/mariapushkareva/medical-insurance-cost-with-linear-regression
