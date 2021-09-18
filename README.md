@@ -15,10 +15,10 @@ To increase the performance of a model used to forecast cost of insurance I deve
 
 - Multiple linear regression. The **Baseline model** with **R2=0.75**
 - Multiple linear regression with transformed **y**: with **R2=0.77**
-- Random Forest Tree with Hyperparameter Optimization: with **R2=0.87** Best model.
-- Random Forest Tree with Hyperparameter Optimization: with **R2=0.82**
+- Random Forest Tree with Hyperparameter Optimization: with **R2=0.87 the Best model.**
+- Random Forest Tree with Hyperparameter Optimization and transformed response: with **R2=0.82**
 - Second order Polynomial Regression (Kaggle selected in example): with **R2=0.80**
-- Random Forest of Second Order Poly Reg with Hyper Opt: **R2=0.87**
+- Random Forest of Second Order Poly Reg with Hyper Opt: **R2=0.87 alternative best model, but more complicated**
 
 All values of R2 correspond to the model evaluated on the test set. 
 
