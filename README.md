@@ -9,7 +9,7 @@ Many factors affect how much you pay for health insurance are not within our con
 - smoker: Smoking
 - region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest
 
-I have previously done exploratory analysis on this data for a webinar in regression analysis at ISSSP (International society of Six Sigma Professionals). It was found that the most influential factor is smoking.
+I have previously done exploratory analysis on these data for a webinar in regression analysis at ISSSP (International society of Six Sigma Professionals). It was found that the most influential factor is smoking.
 
 To increase the performance of a model used to forecast cost of insurance I developed eight models that included:
 
