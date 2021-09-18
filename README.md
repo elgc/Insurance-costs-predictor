@@ -20,7 +20,7 @@ To increase the performance of a model used to forecast cost of insurance I deve
 - Second order Polynomial Regression (Kaggle selected in example): with **R2=0.80**
 - Random Forest of Second Order Poly Reg with Hyper Opt: **R2=0.87**
 
-All values of R2 correspond to the mdodel evaluated on the test set. 
+All values of R2 correspond to the model evaluated on the test set. 
 
 The model selected provides good working predictability.
 
