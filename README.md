@@ -19,6 +19,7 @@ To increase the performance of a model used to forecast cost of insurance I deve
 - Random Forest Tree with Hyperparameter Optimization and transformed response: with **R2=0.82**
 - Second order Polynomial Regression (Kaggle selected in example): with **R2=0.80**
 - Random Forest of Second Order Poly Reg with Hyper Opt: **R2=0.87 alternative best model, but more complicated**
+- Random Forest Regression with Boosting (using CatBoost) and grid search generated a **R2=0.87 Best model** This model does not need categorical variable transformation, it is included in CatBoost. Feature and SHAP graphs for readability and better explanation to stakeholders are included.
 
 All values of R2 correspond to the model evaluated on the test set. 
 
